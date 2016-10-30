@@ -1,4 +1,4 @@
-#include "WConstants.h"
+#include "Arduino.h"
 #include "HardwareSerial.h"
 #include "PS2Mouse.h"
 
